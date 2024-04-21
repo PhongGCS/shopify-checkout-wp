@@ -1,0 +1,94 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+@media only screen and (max-width: 48em) {
+    /*************** ADD MOBILE ONLY CSS HERE  ***************/
+    
+    
+    
+}
+    
+    
+
+.flickity-button {
+    background: unset !important;
+    opacity: 1 !important;
+    box-shadow: unset !important;
+}
+svg.flickity-button-icon {
+    width: 40px !important;
+    height: 40px !important;
+    max-width: 40px !important;
+}
+p.category.uppercase.is-smaller.no-text-overflow.product-cat.op-7 {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 5px;
+    color: black;
+}
+.product-title.woocommerce-loop-product__title {
+    margin-bottom: 15px !important;
+}
+.bottons-between {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.bottons-between a {
+	font-size: 10px;
+    font-weight: normal;
+    margin: 0;
+    width: 49%;
+    border: solid 1px !important;
+    border-radius: 3px;
+    padding: 7px 2px;
+    line-height: 1em !important;
+}
+.color-primary {
+	color: var(--primary-color);
+}
+
+.color-black {
+	color: black;
+}
+header .nav-dropdown-default {
+    padding: 5px 16px !important;
+}
+.woocommerce-product-search-field-0 {
+	background: transparent !important;
+    border-radius: 5px !important;
+    border: 1px solid #ccc !important;
+}
+
+.header-block-block-1 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+}
+.header-block-block-1 .icon-box {
+	margin-left: 30px;
+	width: unset !important;
+}
+
+.header-block-block-1 .icon-box-img {
+	width: 16px !important;
+}
+#top-bar .flex-right {
+	width: 80% !important;
+}
+#top-bar .icon-box-left .icon-box-img+.icon-box-text {
+	padding-left: 10px !important;
+}
+ul.none {
+	list-style: none !important;
+}
