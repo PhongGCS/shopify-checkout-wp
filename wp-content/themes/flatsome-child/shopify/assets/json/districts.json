@@ -1,0 +1,4951 @@
+[
+  {
+    "Id": "VN10151",
+    "Kind": 2,
+    "Name": "Huyện Ba Vì",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10153",
+    "Kind": 2,
+    "Name": "Huyện Chương Mỹ",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10133",
+    "Kind": 2,
+    "Name": "Huyện Đan Phượng",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10117",
+    "Kind": 2,
+    "Name": "Huyện Đông Anh",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10119",
+    "Kind": 2,
+    "Name": "Huyện Gia Lâm",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10137",
+    "Kind": 2,
+    "Name": "Huyện Hoài Đức",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10125",
+    "Kind": 2,
+    "Name": "Huyện Mê Linh",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10145",
+    "Kind": 2,
+    "Name": "Huyện Mỹ Đức",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10149",
+    "Kind": 2,
+    "Name": "Huyện Phú Xuyên",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10131",
+    "Kind": 2,
+    "Name": "Huyện Phúc Thọ",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10139",
+    "Kind": 2,
+    "Name": "Huyện Quốc Oai",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10115",
+    "Kind": 2,
+    "Name": "Huyện Sóc Sơn",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10135",
+    "Kind": 2,
+    "Name": "Huyện Thạch Thất",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10141",
+    "Kind": 2,
+    "Name": "Huyện Thanh Oai",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10123",
+    "Kind": 2,
+    "Name": "Huyện Thanh Trì",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10143",
+    "Kind": 2,
+    "Name": "Huyện Thường Tín",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10147",
+    "Kind": 2,
+    "Name": "Huyện ứng Hòa",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10101",
+    "Kind": 2,
+    "Name": "Quận Ba Đình",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10157",
+    "Kind": 2,
+    "Name": "Quận Bắc Từ Liêm",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10113",
+    "Kind": 2,
+    "Name": "Quận Cầu Giấy",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10109",
+    "Kind": 2,
+    "Name": "Quận Đống đa",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10127",
+    "Kind": 2,
+    "Name": "Quận Hà Đông",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10107",
+    "Kind": 2,
+    "Name": "Quận Hai Bà Trưng",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10105",
+    "Kind": 2,
+    "Name": "Quận Hoàn Kiếm",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10108",
+    "Kind": 2,
+    "Name": "Quận Hoàng Mai",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10106",
+    "Kind": 2,
+    "Name": "Quận Long Biên",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10155",
+    "Kind": 2,
+    "Name": "Quận Nam Từ Liêm",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10103",
+    "Kind": 2,
+    "Name": "Quận Tây Hồ",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10111",
+    "Kind": 2,
+    "Name": "Quận Thanh Xuân",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN10129",
+    "Kind": 2,
+    "Name": "Thị Xã Sơn Tây",
+    "SortOrder": 0,
+    "parentId": "VN101"
+  },
+  {
+    "Id": "VN70139",
+    "Kind": 2,
+    "Name": "Huyện Bình Chánh",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70143",
+    "Kind": 2,
+    "Name": "Huyện Cần Giờ",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70135",
+    "Kind": 2,
+    "Name": "Huyện Củ Chi",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70137",
+    "Kind": 2,
+    "Name": "Huyện Hóc Môn",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70141",
+    "Kind": 2,
+    "Name": "Huyện Nhà Bè",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70101",
+    "Kind": 2,
+    "Name": "Quận 1",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70119",
+    "Kind": 2,
+    "Name": "Quận 10",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70121",
+    "Kind": 2,
+    "Name": "Quận 11",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70123",
+    "Kind": 2,
+    "Name": "Quận 12",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70103",
+    "Kind": 2,
+    "Name": "Quận 2",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70105",
+    "Kind": 2,
+    "Name": "Quận 3",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70107",
+    "Kind": 2,
+    "Name": "Quận 4",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70109",
+    "Kind": 2,
+    "Name": "Quận 5",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70111",
+    "Kind": 2,
+    "Name": "Quận 6",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70113",
+    "Kind": 2,
+    "Name": "Quận 7",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70115",
+    "Kind": 2,
+    "Name": "Quận 8",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70117",
+    "Kind": 2,
+    "Name": "Quận 9",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70134",
+    "Kind": 2,
+    "Name": "Quận Bình Tân",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70129",
+    "Kind": 2,
+    "Name": "Quận Bình Thạnh",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70125",
+    "Kind": 2,
+    "Name": "Quận Gò Vấp",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70131",
+    "Kind": 2,
+    "Name": "Quận Phú Nhuận",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70127",
+    "Kind": 2,
+    "Name": "Quận Tân Bình",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70128",
+    "Kind": 2,
+    "Name": "Quận Tân phú",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN70133_NEW",
+    "Kind": 2,
+    "Name": "Thành Phố Thủ Đức",
+    "SortOrder": 0,
+    "parentId": "VN701"
+  },
+  {
+    "Id": "VN80505",
+    "Kind": 2,
+    "Name": "Huyện An Phú",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80511",
+    "Kind": 2,
+    "Name": "Huyện Châu Phú",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80519",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80517",
+    "Kind": 2,
+    "Name": "Huyện Chợ Mới",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80509",
+    "Kind": 2,
+    "Name": "Huyện Phú Tân",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80521",
+    "Kind": 2,
+    "Name": "Huyện Thoại Sơn",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80513",
+    "Kind": 2,
+    "Name": "Huyện Tịnh Biên",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80515",
+    "Kind": 2,
+    "Name": "Huyện Tri Tôn",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80503",
+    "Kind": 2,
+    "Name": "Thành phố Châu Đốc",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80501",
+    "Kind": 2,
+    "Name": "Thành phố Long Xuyên",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN80507",
+    "Kind": 2,
+    "Name": "Thị xã Tân Châu",
+    "SortOrder": 0,
+    "parentId": "VN805"
+  },
+  {
+    "Id": "VN71705",
+    "Kind": 2,
+    "Name": "Huyện Châu Đức",
+    "SortOrder": 0,
+    "parentId": "VN717"
+  },
+  {
+    "Id": "VN71713",
+    "Kind": 2,
+    "Name": "Huyện Côn Đảo",
+    "SortOrder": 0,
+    "parentId": "VN717"
+  },
+  {
+    "Id": "VN71712",
+    "Kind": 2,
+    "Name": "Huyện Đất đỏ",
+    "SortOrder": 0,
+    "parentId": "VN717"
+  },
+  {
+    "Id": "VN71711",
+    "Kind": 2,
+    "Name": "Huyện Long Điền",
+    "SortOrder": 0,
+    "parentId": "VN717"
+  },
+  {
+    "Id": "VN71707",
+    "Kind": 2,
+    "Name": "Huyện Xuyên Mộc",
+    "SortOrder": 0,
+    "parentId": "VN717"
+  },
+  {
+    "Id": "VN71703",
+    "Kind": 2,
+    "Name": "Thành phố Bà Rịa",
+    "SortOrder": 0,
+    "parentId": "VN717"
+  },
+  {
+    "Id": "VN71701",
+    "Kind": 2,
+    "Name": "Thành Phố Vũng Tàu",
+    "SortOrder": 0,
+    "parentId": "VN717"
+  },
+  {
+    "Id": "VN71709",
+    "Kind": 2,
+    "Name": "Thị Xã Phú Mỹ",
+    "SortOrder": 0,
+    "parentId": "VN717"
+  },
+  {
+    "Id": "VN22109",
+    "Kind": 2,
+    "Name": "Huyện Hiệp Hòa",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22111",
+    "Kind": 2,
+    "Name": "Huyện Lạng Giang",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22115",
+    "Kind": 2,
+    "Name": "Huyện Lục Nam",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22107",
+    "Kind": 2,
+    "Name": "Huyện Lục Ngạn",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22113",
+    "Kind": 2,
+    "Name": "Huyện Sơn Động",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22105",
+    "Kind": 2,
+    "Name": "Huyện Tân Yên",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22117",
+    "Kind": 2,
+    "Name": "Huyện Việt Yên",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22119",
+    "Kind": 2,
+    "Name": "Huyện Yên Dũng",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22103",
+    "Kind": 2,
+    "Name": "Huyện Yên Thế",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN22101",
+    "Kind": 2,
+    "Name": "Thành phố Bắc Giang",
+    "SortOrder": 0,
+    "parentId": "VN221"
+  },
+  {
+    "Id": "VN20703",
+    "Kind": 2,
+    "Name": "Huyện Ba Bể",
+    "SortOrder": 0,
+    "parentId": "VN207"
+  },
+  {
+    "Id": "VN20711",
+    "Kind": 2,
+    "Name": "Huyện Bạch Thông",
+    "SortOrder": 0,
+    "parentId": "VN207"
+  },
+  {
+    "Id": "VN20707",
+    "Kind": 2,
+    "Name": "Huyện Chợ Đồn",
+    "SortOrder": 0,
+    "parentId": "VN207"
+  },
+  {
+    "Id": "VN20713",
+    "Kind": 2,
+    "Name": "Huyện Chợ mới",
+    "SortOrder": 0,
+    "parentId": "VN207"
+  },
+  {
+    "Id": "VN20709",
+    "Kind": 2,
+    "Name": "Huyện Na Rì",
+    "SortOrder": 0,
+    "parentId": "VN207"
+  },
+  {
+    "Id": "VN20705",
+    "Kind": 2,
+    "Name": "Huyện Ngân Sơn",
+    "SortOrder": 0,
+    "parentId": "VN207"
+  },
+  {
+    "Id": "VN20704",
+    "Kind": 2,
+    "Name": "Huyện Pác Nặm",
+    "SortOrder": 0,
+    "parentId": "VN207"
+  },
+  {
+    "Id": "VN20701",
+    "Kind": 2,
+    "Name": "Thành Phố Bắc Kạn",
+    "SortOrder": 0,
+    "parentId": "VN207"
+  },
+  {
+    "Id": "VN82111",
+    "Kind": 2,
+    "Name": "Huyện Đông Hải",
+    "SortOrder": 0,
+    "parentId": "VN821"
+  },
+  {
+    "Id": "VN82106",
+    "Kind": 2,
+    "Name": "Huyện Hòa Bình",
+    "SortOrder": 0,
+    "parentId": "VN821"
+  },
+  {
+    "Id": "VN82103",
+    "Kind": 2,
+    "Name": "Huyện Hồng Dân",
+    "SortOrder": 0,
+    "parentId": "VN821"
+  },
+  {
+    "Id": "VN82109",
+    "Kind": 2,
+    "Name": "Huyện Phước Long",
+    "SortOrder": 0,
+    "parentId": "VN821"
+  },
+  {
+    "Id": "VN82105",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Lợi",
+    "SortOrder": 0,
+    "parentId": "VN821"
+  },
+  {
+    "Id": "VN82101",
+    "Kind": 2,
+    "Name": "Thành Phố Bạc Liêu",
+    "SortOrder": 0,
+    "parentId": "VN821"
+  },
+  {
+    "Id": "VN82107",
+    "Kind": 2,
+    "Name": "Thị xã Giá Rai",
+    "SortOrder": 0,
+    "parentId": "VN821"
+  },
+  {
+    "Id": "VN22315",
+    "Kind": 2,
+    "Name": "Huyện Gia Bình",
+    "SortOrder": 0,
+    "parentId": "VN223"
+  },
+  {
+    "Id": "VN22311",
+    "Kind": 2,
+    "Name": "Huyện Lương Tài",
+    "SortOrder": 0,
+    "parentId": "VN223"
+  },
+  {
+    "Id": "VN22309",
+    "Kind": 2,
+    "Name": "Huyện Thuận Thành",
+    "SortOrder": 0,
+    "parentId": "VN223"
+  },
+  {
+    "Id": "VN22307",
+    "Kind": 2,
+    "Name": "Huyện Tiên Du",
+    "SortOrder": 0,
+    "parentId": "VN223"
+  },
+  {
+    "Id": "VN22303",
+    "Kind": 2,
+    "Name": "Huyện Yên Phong",
+    "SortOrder": 0,
+    "parentId": "VN223"
+  },
+  {
+    "Id": "VN22301",
+    "Kind": 2,
+    "Name": "Thành phố Bắc Ninh",
+    "SortOrder": 0,
+    "parentId": "VN223"
+  },
+  {
+    "Id": "VN22305",
+    "Kind": 2,
+    "Name": "Thị xã Quế Võ",
+    "SortOrder": 0,
+    "parentId": "VN223"
+  },
+  {
+    "Id": "VN22313",
+    "Kind": 2,
+    "Name": "Thị xã Từ Sơn",
+    "SortOrder": 0,
+    "parentId": "VN223"
+  },
+  {
+    "Id": "VN81113",
+    "Kind": 2,
+    "Name": "Huyện Ba Tri",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN81111",
+    "Kind": 2,
+    "Name": "Huyện Bình Đại",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN81103",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN81105",
+    "Kind": 2,
+    "Name": "Huyện Chợ Lách",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN81109",
+    "Kind": 2,
+    "Name": "Huyện Giồng Trôm",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN81108",
+    "Kind": 2,
+    "Name": "Huyện Mỏ Cày Bắc",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN81107",
+    "Kind": 2,
+    "Name": "Huyện Mỏ Cày Nam",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN81115",
+    "Kind": 2,
+    "Name": "Huyện Thạnh Phú",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN81101",
+    "Kind": 2,
+    "Name": "Thành phố Bến Tre",
+    "SortOrder": 0,
+    "parentId": "VN811"
+  },
+  {
+    "Id": "VN50703",
+    "Kind": 2,
+    "Name": "Huyện An Lão",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50707",
+    "Kind": 2,
+    "Name": "Huyện Hoài Ân",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50713",
+    "Kind": 2,
+    "Name": "Huyện Phù Cát",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50709",
+    "Kind": 2,
+    "Name": "Huyện Phù Mỹ",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50715",
+    "Kind": 2,
+    "Name": "Huyện Tây Sơn",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50719",
+    "Kind": 2,
+    "Name": "Huyện Tuy Phước",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50721",
+    "Kind": 2,
+    "Name": "Huyện Vân Canh",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50711",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Thạnh",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50701",
+    "Kind": 2,
+    "Name": "Thành phố Quy Nhơn",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50717",
+    "Kind": 2,
+    "Name": "Thị Xã An Nhơn",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN50705",
+    "Kind": 2,
+    "Name": "Thị xã Hoài Nhơn",
+    "SortOrder": 0,
+    "parentId": "VN507"
+  },
+  {
+    "Id": "VN71117",
+    "Kind": 2,
+    "Name": "Huyện Bắc Tân Uyên",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN71115",
+    "Kind": 2,
+    "Name": "Huyện Bàu Bàng",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN71113",
+    "Kind": 2,
+    "Name": "Huyện Dầu Tiếng",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN71111",
+    "Kind": 2,
+    "Name": "Huyện Phú Giáo",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN71109",
+    "Kind": 2,
+    "Name": "Thành phố Dĩ An",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN71101",
+    "Kind": 2,
+    "Name": "Thành phố Thủ Dầu Một",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN71107",
+    "Kind": 2,
+    "Name": "Thành phố Thuận An",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN71103",
+    "Kind": 2,
+    "Name": "Thị Xã Bến Cát",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN71105",
+    "Kind": 2,
+    "Name": "Thị xã Tân Uyên",
+    "SortOrder": 0,
+    "parentId": "VN711"
+  },
+  {
+    "Id": "VN70707",
+    "Kind": 2,
+    "Name": "Huyện Bù Đăng",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70706",
+    "Kind": 2,
+    "Name": "Huyện Bù Đốp",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70715",
+    "Kind": 2,
+    "Name": "Huyện Bù Gia Mập",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70710",
+    "Kind": 2,
+    "Name": "Huyện Chơn Thành",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70701",
+    "Kind": 2,
+    "Name": "Huyện Đồng Phú",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70713",
+    "Kind": 2,
+    "Name": "Huyện Hớn Quản",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70705",
+    "Kind": 2,
+    "Name": "Huyện Lộc Ninh",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70717",
+    "Kind": 2,
+    "Name": "Huyện Phú Riềng",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70711",
+    "Kind": 2,
+    "Name": "Thành phố Đồng Xoài",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70709",
+    "Kind": 2,
+    "Name": "Thị xã Bình Long",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN70703",
+    "Kind": 2,
+    "Name": "Thị xã Phước Long",
+    "SortOrder": 0,
+    "parentId": "VN707"
+  },
+  {
+    "Id": "VN71505",
+    "Kind": 2,
+    "Name": "Huyện Bắc Bình",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71515",
+    "Kind": 2,
+    "Name": "Huyện Đức Linh",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71514",
+    "Kind": 2,
+    "Name": "Huyện Hàm Tân",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71507",
+    "Kind": 2,
+    "Name": "Huyện Hàm Thuận Bắc",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71509",
+    "Kind": 2,
+    "Name": "Huyện Hàm Thuận Nam",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71517",
+    "Kind": 2,
+    "Name": "Huyện Phú Quý",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71511",
+    "Kind": 2,
+    "Name": "Huyện Tánh Linh",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71503",
+    "Kind": 2,
+    "Name": "Huyện Tuy Phong",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71501",
+    "Kind": 2,
+    "Name": "Thành phố Phan Thiết",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN71513",
+    "Kind": 2,
+    "Name": "Thị xã La Gi",
+    "SortOrder": 0,
+    "parentId": "VN715"
+  },
+  {
+    "Id": "VN82309",
+    "Kind": 2,
+    "Name": "Huyện Cái Nước",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN82311",
+    "Kind": 2,
+    "Name": "Huyện Đầm Dơi",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN82312",
+    "Kind": 2,
+    "Name": "Huyện Năm Căn",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN82313",
+    "Kind": 2,
+    "Name": "Huyện Ngọc Hiển",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN82308",
+    "Kind": 2,
+    "Name": "Huyện Phú Tân",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN82303",
+    "Kind": 2,
+    "Name": "Huyện Thới Bình",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN82307",
+    "Kind": 2,
+    "Name": "Huyện Trần Văn Thời",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN82305",
+    "Kind": 2,
+    "Name": "Huyện U Minh",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN82301",
+    "Kind": 2,
+    "Name": "Thành phố Cà Mau",
+    "SortOrder": 0,
+    "parentId": "VN823"
+  },
+  {
+    "Id": "VN81527",
+    "Kind": 2,
+    "Name": "Huyện Cờ Đỏ",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN81529",
+    "Kind": 2,
+    "Name": "Huyện Phong Điền",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN81531",
+    "Kind": 2,
+    "Name": "Huyện Thới Lai",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN81525",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Thạnh",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN81521",
+    "Kind": 2,
+    "Name": "Quận Bình Thủy",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN81523",
+    "Kind": 2,
+    "Name": "Quận Cái Răng",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN81519",
+    "Kind": 2,
+    "Name": "Quận Ninh Kiều",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN81505",
+    "Kind": 2,
+    "Name": "Quận Ô Môn",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN81503",
+    "Kind": 2,
+    "Name": "Quận Thốt Nốt",
+    "SortOrder": 0,
+    "parentId": "VN815"
+  },
+  {
+    "Id": "VN20303",
+    "Kind": 2,
+    "Name": "Huyện Bảo Lạc",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20323",
+    "Kind": 2,
+    "Name": "Huyện Bảo Lâm",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20319",
+    "Kind": 2,
+    "Name": "Huyện Hạ Lang",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20305",
+    "Kind": 2,
+    "Name": "Huyện Hà Quảng",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20315",
+    "Kind": 2,
+    "Name": "Huyện Hòa An",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20313",
+    "Kind": 2,
+    "Name": "Huyện Nguyên Bình",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20325",
+    "Kind": 2,
+    "Name": "Huyện Quảng Hòa",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20321",
+    "Kind": 2,
+    "Name": "Huyện Thạch An",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20311",
+    "Kind": 2,
+    "Name": "Huyện Trùng Khánh",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN20301",
+    "Kind": 2,
+    "Name": "Thành phố Cao Bằng",
+    "SortOrder": 0,
+    "parentId": "VN203"
+  },
+  {
+    "Id": "VN50111",
+    "Kind": 2,
+    "Name": "Huyện Hòa Vang",
+    "SortOrder": 0,
+    "parentId": "VN501"
+  },
+  {
+    "Id": "VN50113",
+    "Kind": 2,
+    "Name": "Huyện Hoàng Sa",
+    "SortOrder": 0,
+    "parentId": "VN501"
+  },
+  {
+    "Id": "VN50115",
+    "Kind": 2,
+    "Name": "Quận Cẩm Lệ",
+    "SortOrder": 0,
+    "parentId": "VN501"
+  },
+  {
+    "Id": "VN50101",
+    "Kind": 2,
+    "Name": "Quận Hải Châu",
+    "SortOrder": 0,
+    "parentId": "VN501"
+  },
+  {
+    "Id": "VN50109",
+    "Kind": 2,
+    "Name": "Quận Liên Chiểu",
+    "SortOrder": 0,
+    "parentId": "VN501"
+  },
+  {
+    "Id": "VN50107",
+    "Kind": 2,
+    "Name": "Quận Ngũ Hành Sơn",
+    "SortOrder": 0,
+    "parentId": "VN501"
+  },
+  {
+    "Id": "VN50105",
+    "Kind": 2,
+    "Name": "Quận Sơn Trà",
+    "SortOrder": 0,
+    "parentId": "VN501"
+  },
+  {
+    "Id": "VN50103",
+    "Kind": 2,
+    "Name": "Quận Thanh Khê",
+    "SortOrder": 0,
+    "parentId": "VN501"
+  },
+  {
+    "Id": "VN60511",
+    "Kind": 2,
+    "Name": "Huyện Buôn Ðôn",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60537",
+    "Kind": 2,
+    "Name": "Huyện Cư Kuin",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60513",
+    "Kind": 2,
+    "Name": "Huyện Cư M gar",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60503",
+    "Kind": 2,
+    "Name": "Huyện Ea H leo",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60515",
+    "Kind": 2,
+    "Name": "Huyện Ea Kar",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60505",
+    "Kind": 2,
+    "Name": "Huyện Ea Súp",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60523",
+    "Kind": 2,
+    "Name": "Huyện Krông A Na",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60525",
+    "Kind": 2,
+    "Name": "Huyện Krông Bông",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60539",
+    "Kind": 2,
+    "Name": "Huyện Krông Búk",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60507",
+    "Kind": 2,
+    "Name": "Huyện Krông Năng",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60519",
+    "Kind": 2,
+    "Name": "Huyện Krông Pắc",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60531",
+    "Kind": 2,
+    "Name": "Huyện Lắk",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60517",
+    "Kind": 2,
+    "Name": "Huyện M đrắk",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60501",
+    "Kind": 2,
+    "Name": "Thành phố Buôn Ma Thuột",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60509",
+    "Kind": 2,
+    "Name": "Thị xã Buôn Hồ",
+    "SortOrder": 0,
+    "parentId": "VN605"
+  },
+  {
+    "Id": "VN60603",
+    "Kind": 2,
+    "Name": "Huyện Cư Jút",
+    "SortOrder": 0,
+    "parentId": "VN606"
+  },
+  {
+    "Id": "VN60615",
+    "Kind": 2,
+    "Name": "Huyện Đắk Glong",
+    "SortOrder": 0,
+    "parentId": "VN606"
+  },
+  {
+    "Id": "VN60607",
+    "Kind": 2,
+    "Name": "Huyện Đắk Mil",
+    "SortOrder": 0,
+    "parentId": "VN606"
+  },
+  {
+    "Id": "VN60611",
+    "Kind": 2,
+    "Name": "Huyện Đắk R lấp",
+    "SortOrder": 0,
+    "parentId": "VN606"
+  },
+  {
+    "Id": "VN60609",
+    "Kind": 2,
+    "Name": "Huyện Đắk Song",
+    "SortOrder": 0,
+    "parentId": "VN606"
+  },
+  {
+    "Id": "VN60605",
+    "Kind": 2,
+    "Name": "Huyện Krông Nô",
+    "SortOrder": 0,
+    "parentId": "VN606"
+  },
+  {
+    "Id": "VN60617",
+    "Kind": 2,
+    "Name": "Huyện Tuy Đức",
+    "SortOrder": 0,
+    "parentId": "VN606"
+  },
+  {
+    "Id": "VN60613",
+    "Kind": 2,
+    "Name": "Thành phố Gia Nghĩa",
+    "SortOrder": 0,
+    "parentId": "VN606"
+  },
+  {
+    "Id": "VN30117",
+    "Kind": 2,
+    "Name": "Huyện Điện Biên",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30119",
+    "Kind": 2,
+    "Name": "Huyện Điện Biên Đông",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30121",
+    "Kind": 2,
+    "Name": "Huyện Mường ảng",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30111",
+    "Kind": 2,
+    "Name": "Huyện Mường Chà",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30104",
+    "Kind": 2,
+    "Name": "Huyện Mường Nhé",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30123",
+    "Kind": 2,
+    "Name": "Huyện Nậm Pồ",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30113",
+    "Kind": 2,
+    "Name": "Huyện Tủa Chùa",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30115",
+    "Kind": 2,
+    "Name": "Huyện Tuần Giáo",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30101",
+    "Kind": 2,
+    "Name": "Thành phố Điện Biên Phủ",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN30103",
+    "Kind": 2,
+    "Name": "Thị xã Mường Lay",
+    "SortOrder": 0,
+    "parentId": "VN301"
+  },
+  {
+    "Id": "VN71311",
+    "Kind": 2,
+    "Name": "Huyện Cẩm Mỹ",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71305",
+    "Kind": 2,
+    "Name": "Huyện Định Quán",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71315",
+    "Kind": 2,
+    "Name": "Huyện Long Thành",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71317",
+    "Kind": 2,
+    "Name": "Huyện Nhơn Trạch",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71303",
+    "Kind": 2,
+    "Name": "Huyện Tân Phú",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71309",
+    "Kind": 2,
+    "Name": "Huyện Thống Nhất",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71308",
+    "Kind": 2,
+    "Name": "Huyện Trảng Bom",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71307",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Cửu",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71313",
+    "Kind": 2,
+    "Name": "Huyện Xuân Lộc",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71301",
+    "Kind": 2,
+    "Name": "Thành phố Biên Hòa",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN71302",
+    "Kind": 2,
+    "Name": "Thành phố Long Khánh",
+    "SortOrder": 0,
+    "parentId": "VN713"
+  },
+  {
+    "Id": "VN80315",
+    "Kind": 2,
+    "Name": "Huyện Cao Lãnh",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80321",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80307",
+    "Kind": 2,
+    "Name": "Huyện Hồng Ngự",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80319",
+    "Kind": 2,
+    "Name": "Huyện Lai Vung",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80317",
+    "Kind": 2,
+    "Name": "Huyện Lấp Vò",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80309",
+    "Kind": 2,
+    "Name": "Huyện Tam Nông",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80305",
+    "Kind": 2,
+    "Name": "Huyện Tân Hồng",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80311",
+    "Kind": 2,
+    "Name": "Huyện Thanh Bình",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80313",
+    "Kind": 2,
+    "Name": "Huyện Tháp Mười",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80301",
+    "Kind": 2,
+    "Name": "Thành phố Cao Lãnh",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80303",
+    "Kind": 2,
+    "Name": "Thành phố Sa Đéc",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN80323",
+    "Kind": 2,
+    "Name": "Thị xã Hồng Ngự",
+    "SortOrder": 0,
+    "parentId": "VN803"
+  },
+  {
+    "Id": "VN60307",
+    "Kind": 2,
+    "Name": "Huyện Chư Păh",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60317",
+    "Kind": 2,
+    "Name": "Huyện Chư Prông",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60331",
+    "Kind": 2,
+    "Name": "Huyện Chư Pưh",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60319",
+    "Kind": 2,
+    "Name": "Huyện Chư Sê",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60325",
+    "Kind": 2,
+    "Name": "Huyện Đắk Đoa",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60327",
+    "Kind": 2,
+    "Name": "Huyện Đắk Pơ",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60315",
+    "Kind": 2,
+    "Name": "Huyện Đức Cơ",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60309",
+    "Kind": 2,
+    "Name": "Huyện Ia Grai",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60320",
+    "Kind": 2,
+    "Name": "Huyện Ia Pa",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60303",
+    "Kind": 2,
+    "Name": "Huyện Kbang",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60313",
+    "Kind": 2,
+    "Name": "Huyện Kông Chro",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60323",
+    "Kind": 2,
+    "Name": "Huyện Krông Pa",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60305",
+    "Kind": 2,
+    "Name": "Huyện Mang Yang",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60329",
+    "Kind": 2,
+    "Name": "Huyện Phú Thiện",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60301",
+    "Kind": 2,
+    "Name": "Thành phố Pleiku",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60311",
+    "Kind": 2,
+    "Name": "Thị xã An Khê",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN60321",
+    "Kind": 2,
+    "Name": "Thị xã Ayun Pa",
+    "SortOrder": 0,
+    "parentId": "VN603"
+  },
+  {
+    "Id": "VN20111",
+    "Kind": 2,
+    "Name": "Huyện Bắc Mê",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20119",
+    "Kind": 2,
+    "Name": "Huyện Bắc Quang",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20103",
+    "Kind": 2,
+    "Name": "Huyện Đồng Văn",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20113",
+    "Kind": 2,
+    "Name": "Huyện Hoàng Su Phì",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20105",
+    "Kind": 2,
+    "Name": "Huyện Mèo Vạc",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20109",
+    "Kind": 2,
+    "Name": "Huyện Quản Bạ",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20118",
+    "Kind": 2,
+    "Name": "Huyện Quang Bình",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20115",
+    "Kind": 2,
+    "Name": "Huyện Vị Xuyên",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20117",
+    "Kind": 2,
+    "Name": "Huyện Xín Mần",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20107",
+    "Kind": 2,
+    "Name": "Huyện Yên Minh",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN20101",
+    "Kind": 2,
+    "Name": "Thành phố Hà Giang",
+    "SortOrder": 0,
+    "parentId": "VN201"
+  },
+  {
+    "Id": "VN11111",
+    "Kind": 2,
+    "Name": "Huyện Bình Lục",
+    "SortOrder": 0,
+    "parentId": "VN111"
+  },
+  {
+    "Id": "VN11105",
+    "Kind": 2,
+    "Name": "Huyện Kim Bảng",
+    "SortOrder": 0,
+    "parentId": "VN111"
+  },
+  {
+    "Id": "VN11107",
+    "Kind": 2,
+    "Name": "Huyện Lý Nhân",
+    "SortOrder": 0,
+    "parentId": "VN111"
+  },
+  {
+    "Id": "VN11109",
+    "Kind": 2,
+    "Name": "Huyện Thanh Liêm",
+    "SortOrder": 0,
+    "parentId": "VN111"
+  },
+  {
+    "Id": "VN11101",
+    "Kind": 2,
+    "Name": "Thành phố Phủ Lý",
+    "SortOrder": 0,
+    "parentId": "VN111"
+  },
+  {
+    "Id": "VN11103",
+    "Kind": 2,
+    "Name": "Thị xã Duy Tiên",
+    "SortOrder": 0,
+    "parentId": "VN111"
+  },
+  {
+    "Id": "VN40515",
+    "Kind": 2,
+    "Name": "Huyện Cẩm Xuyên",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40511",
+    "Kind": 2,
+    "Name": "Huyện Can Lộc",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40507",
+    "Kind": 2,
+    "Name": "Huyện Đức Thọ",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40517",
+    "Kind": 2,
+    "Name": "Huyện Hương Khê",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40509",
+    "Kind": 2,
+    "Name": "Huyện Hương Sơn",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40519",
+    "Kind": 2,
+    "Name": "Huyện Kỳ Anh",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40523",
+    "Kind": 2,
+    "Name": "Huyện Lộc Hà",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40505",
+    "Kind": 2,
+    "Name": "Huyện Nghi Xuân",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40513",
+    "Kind": 2,
+    "Name": "Huyện Thạch Hà",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40521",
+    "Kind": 2,
+    "Name": "Huyện Vũ Quang",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40501",
+    "Kind": 2,
+    "Name": "Thành phố Hà Tĩnh",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40503",
+    "Kind": 2,
+    "Name": "Thị xã Hồng Lĩnh",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN40524",
+    "Kind": 2,
+    "Name": "Thị xã Kỳ Anh",
+    "SortOrder": 0,
+    "parentId": "VN405"
+  },
+  {
+    "Id": "VN10719",
+    "Kind": 2,
+    "Name": "Huyện Bình Giang",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10717",
+    "Kind": 2,
+    "Name": "Huyện Cẩm Giàng",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10713",
+    "Kind": 2,
+    "Name": "Huyện Gia Lộc",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10711",
+    "Kind": 2,
+    "Name": "Huyện Kim Thành",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10705",
+    "Kind": 2,
+    "Name": "Huyện Nam Sách",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10723",
+    "Kind": 2,
+    "Name": "Huyện Ninh Giang",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10707",
+    "Kind": 2,
+    "Name": "Huyện Thanh Hà",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10721",
+    "Kind": 2,
+    "Name": "Huyện Thanh Miện",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10715",
+    "Kind": 2,
+    "Name": "Huyện Tứ Kỳ",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10703",
+    "Kind": 2,
+    "Name": "Thành phố Chí Linh",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10701",
+    "Kind": 2,
+    "Name": "Thành phố Hải Dương",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10709",
+    "Kind": 2,
+    "Name": "Thị xã Kinh Môn",
+    "SortOrder": 0,
+    "parentId": "VN107"
+  },
+  {
+    "Id": "VN10313",
+    "Kind": 2,
+    "Name": "Huyện An Dương",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10315",
+    "Kind": 2,
+    "Name": "Huyện An Lão",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10325",
+    "Kind": 2,
+    "Name": "Huyện Bạch Long Vĩ",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10323",
+    "Kind": 2,
+    "Name": "Huyện Cát Hải",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10317",
+    "Kind": 2,
+    "Name": "Huyện Kiến Thụy",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10311",
+    "Kind": 2,
+    "Name": "Huyện Thủy Nguyên",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10319",
+    "Kind": 2,
+    "Name": "Huyện Tiên Lãng",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10321",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Bảo",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10309",
+    "Kind": 2,
+    "Name": "Quận Đồ Sơn",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10327",
+    "Kind": 2,
+    "Name": "Quận Dương Kinh",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10304",
+    "Kind": 2,
+    "Name": "Quận Hải An",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10301",
+    "Kind": 2,
+    "Name": "Quận Hồng Bàng",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10307",
+    "Kind": 2,
+    "Name": "Quận Kiến An",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10305",
+    "Kind": 2,
+    "Name": "Quận Lê Chân",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN10303",
+    "Kind": 2,
+    "Name": "Quận Ngô Quyền",
+    "SortOrder": 0,
+    "parentId": "VN103"
+  },
+  {
+    "Id": "VN81605",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN816"
+  },
+  {
+    "Id": "VN81603",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành A",
+    "SortOrder": 0,
+    "parentId": "VN816"
+  },
+  {
+    "Id": "VN81611",
+    "Kind": 2,
+    "Name": "Huyện Long Mỹ",
+    "SortOrder": 0,
+    "parentId": "VN816"
+  },
+  {
+    "Id": "VN81608",
+    "Kind": 2,
+    "Name": "Huyện Phụng Hiệp",
+    "SortOrder": 0,
+    "parentId": "VN816"
+  },
+  {
+    "Id": "VN81609",
+    "Kind": 2,
+    "Name": "Huyện Vị Thủy",
+    "SortOrder": 0,
+    "parentId": "VN816"
+  },
+  {
+    "Id": "VN81607",
+    "Kind": 2,
+    "Name": "Thành phố Ngã Bảy",
+    "SortOrder": 0,
+    "parentId": "VN816"
+  },
+  {
+    "Id": "VN81601",
+    "Kind": 2,
+    "Name": "Thành phố Vị Thanh",
+    "SortOrder": 0,
+    "parentId": "VN816"
+  },
+  {
+    "Id": "VN81613",
+    "Kind": 2,
+    "Name": "Thị xã Long Mỹ",
+    "SortOrder": 0,
+    "parentId": "VN816"
+  },
+  {
+    "Id": "VN30510",
+    "Kind": 2,
+    "Name": "Huyện Cao Phong",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30503",
+    "Kind": 2,
+    "Name": "Huyện Đà Bắc",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30511",
+    "Kind": 2,
+    "Name": "Huyện Kim Bôi",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30515",
+    "Kind": 2,
+    "Name": "Huyện Lạc Sơn",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30517",
+    "Kind": 2,
+    "Name": "Huyện Lạc Thủy",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30509",
+    "Kind": 2,
+    "Name": "Huyện Lương Sơn",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30505",
+    "Kind": 2,
+    "Name": "Huyện Mai Châu",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30513",
+    "Kind": 2,
+    "Name": "Huyện Tân Lạc",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30519",
+    "Kind": 2,
+    "Name": "Huyện Yên Thủy",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN30501",
+    "Kind": 2,
+    "Name": "Thành phố Hòa Bình",
+    "SortOrder": 0,
+    "parentId": "VN305"
+  },
+  {
+    "Id": "VN10907",
+    "Kind": 2,
+    "Name": "Huyện Ân Thi",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10905",
+    "Kind": 2,
+    "Name": "Huyện Khoái Châu",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10909",
+    "Kind": 2,
+    "Name": "Huyện Kim Động",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10911",
+    "Kind": 2,
+    "Name": "Huyện Phù Cừ",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10913",
+    "Kind": 2,
+    "Name": "Huyện Tiên Lữ",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10915",
+    "Kind": 2,
+    "Name": "Huyện Văn Giang",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10917",
+    "Kind": 2,
+    "Name": "Huyện Văn Lâm",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10919",
+    "Kind": 2,
+    "Name": "Huyện Yên Mỹ",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10901",
+    "Kind": 2,
+    "Name": "Thành phố Hưng yên",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN10903",
+    "Kind": 2,
+    "Name": "Thị xã Mỹ Hào",
+    "SortOrder": 0,
+    "parentId": "VN109"
+  },
+  {
+    "Id": "VN51117",
+    "Kind": 2,
+    "Name": "Huyện Cam Lâm",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN51107",
+    "Kind": 2,
+    "Name": "Huyện Diên Khánh",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN51113",
+    "Kind": 2,
+    "Name": "Huyện Khánh Sơn",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN51111",
+    "Kind": 2,
+    "Name": "Huyện Khánh Vĩnh",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN51115",
+    "Kind": 2,
+    "Name": "Huyện Trường Sa",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN51103",
+    "Kind": 2,
+    "Name": "Huyện Vạn Ninh",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN51109",
+    "Kind": 2,
+    "Name": "Thành phố Cam Ranh",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN51101",
+    "Kind": 2,
+    "Name": "Thành phố Nha Trang",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN51105",
+    "Kind": 2,
+    "Name": "Thị xã Ninh Hòa",
+    "SortOrder": 0,
+    "parentId": "VN511"
+  },
+  {
+    "Id": "VN81315",
+    "Kind": 2,
+    "Name": "Huyện An Biên",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81317",
+    "Kind": 2,
+    "Name": "Huyện An Minh",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81309",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81304",
+    "Kind": 2,
+    "Name": "Huyện Giang Thành",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81311",
+    "Kind": 2,
+    "Name": "Huyện Giồng Riềng",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81313",
+    "Kind": 2,
+    "Name": "Huyện Gò Quao",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81305",
+    "Kind": 2,
+    "Name": "Huyện Hòn Đất",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81323",
+    "Kind": 2,
+    "Name": "Huyện Kiên Hải",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81303",
+    "Kind": 2,
+    "Name": "Huyện Kiên Lương",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81307",
+    "Kind": 2,
+    "Name": "Huyện Tân Hiệp",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81327",
+    "Kind": 2,
+    "Name": "Huyện U Minh Thượng",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81319",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Thuận",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81325",
+    "Kind": 2,
+    "Name": "Thành phố Hà Tiên",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81321",
+    "Kind": 2,
+    "Name": "Thành phố Phú Quốc",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN81301",
+    "Kind": 2,
+    "Name": "Thành phố Rạch Giá",
+    "SortOrder": 0,
+    "parentId": "VN813"
+  },
+  {
+    "Id": "VN60103",
+    "Kind": 2,
+    "Name": "Huyện Đắk Glei",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60111",
+    "Kind": 2,
+    "Name": "Huyện Đắk Hà",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60107",
+    "Kind": 2,
+    "Name": "Huyện Đắk Tô",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60117",
+    "Kind": 2,
+    "Name": "Huyện Ia H Drai",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60109",
+    "Kind": 2,
+    "Name": "Huyện Kon Plông",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60108",
+    "Kind": 2,
+    "Name": "Huyện Kon Rẫy",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60105",
+    "Kind": 2,
+    "Name": "Huyện Ngọc Hồi",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60113",
+    "Kind": 2,
+    "Name": "Huyện Sa Thầy",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60115",
+    "Kind": 2,
+    "Name": "Huyện Tu Mơ Rông",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN60101",
+    "Kind": 2,
+    "Name": "Thành phố Kon Tum",
+    "SortOrder": 0,
+    "parentId": "VN601"
+  },
+  {
+    "Id": "VN30201",
+    "Kind": 2,
+    "Name": "Huyện Mường Tè",
+    "SortOrder": 0,
+    "parentId": "VN302"
+  },
+  {
+    "Id": "VN30213",
+    "Kind": 2,
+    "Name": "Huyện Nậm Nhùn",
+    "SortOrder": 0,
+    "parentId": "VN302"
+  },
+  {
+    "Id": "VN30203",
+    "Kind": 2,
+    "Name": "Huyện Phong Thổ",
+    "SortOrder": 0,
+    "parentId": "VN302"
+  },
+  {
+    "Id": "VN30207",
+    "Kind": 2,
+    "Name": "Huyện Sìn Hồ",
+    "SortOrder": 0,
+    "parentId": "VN302"
+  },
+  {
+    "Id": "VN30205",
+    "Kind": 2,
+    "Name": "Huyện Tam Đường",
+    "SortOrder": 0,
+    "parentId": "VN302"
+  },
+  {
+    "Id": "VN30211",
+    "Kind": 2,
+    "Name": "Huyện Tân Uyên",
+    "SortOrder": 0,
+    "parentId": "VN302"
+  },
+  {
+    "Id": "VN30209",
+    "Kind": 2,
+    "Name": "Huyện Than Uyên",
+    "SortOrder": 0,
+    "parentId": "VN302"
+  },
+  {
+    "Id": "VN30202",
+    "Kind": 2,
+    "Name": "Thành Phố Lai Châu",
+    "SortOrder": 0,
+    "parentId": "VN302"
+  },
+  {
+    "Id": "VN70313",
+    "Kind": 2,
+    "Name": "Huyện Bảo Lâm",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70321",
+    "Kind": 2,
+    "Name": "Huyện Cát Tiên",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70317",
+    "Kind": 2,
+    "Name": "Huyện Đạ Huoai",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70319",
+    "Kind": 2,
+    "Name": "Huyện Đạ Tẻh",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70323",
+    "Kind": 2,
+    "Name": "Huyện Đam Rông",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70315",
+    "Kind": 2,
+    "Name": "Huyện Di Linh",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70307",
+    "Kind": 2,
+    "Name": "Huyện Đơn Dương",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70309",
+    "Kind": 2,
+    "Name": "Huyện Đức Trọng",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70305",
+    "Kind": 2,
+    "Name": "Huyện Lạc Dương",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70311",
+    "Kind": 2,
+    "Name": "Huyện Lâm Hà",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70303",
+    "Kind": 2,
+    "Name": "Thành phố Bảo Lộc",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN70301",
+    "Kind": 2,
+    "Name": "Thành phố Đà Lạt",
+    "SortOrder": 0,
+    "parentId": "VN703"
+  },
+  {
+    "Id": "VN20909",
+    "Kind": 2,
+    "Name": "Huyện Bắc Sơn",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20907",
+    "Kind": 2,
+    "Name": "Huyện Bình Gia",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20913",
+    "Kind": 2,
+    "Name": "Huyện Cao Lộc",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20917",
+    "Kind": 2,
+    "Name": "Huyện Chi Lăng",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20919",
+    "Kind": 2,
+    "Name": "Huyện Đình Lập",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20921",
+    "Kind": 2,
+    "Name": "Huyện Hữu Lũng",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20915",
+    "Kind": 2,
+    "Name": "Huyện Lộc Bình",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20903",
+    "Kind": 2,
+    "Name": "Huyện Tràng Định",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20905",
+    "Kind": 2,
+    "Name": "Huyện Văn Lãng",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20911",
+    "Kind": 2,
+    "Name": "Huyện Văn Quan",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20901",
+    "Kind": 2,
+    "Name": "Thành phố Lạng Sơn",
+    "SortOrder": 0,
+    "parentId": "VN209"
+  },
+  {
+    "Id": "VN20509",
+    "Kind": 2,
+    "Name": "Huyện Bắc Hà",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN20511",
+    "Kind": 2,
+    "Name": "Huyện Bảo Thắng",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN20515",
+    "Kind": 2,
+    "Name": "Huyện Bảo Yên",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN20507",
+    "Kind": 2,
+    "Name": "Huyện Bát Xát",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN20505",
+    "Kind": 2,
+    "Name": "Huyện Mường Khương",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN20521",
+    "Kind": 2,
+    "Name": "Huyện Si Ma Cai",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN20519",
+    "Kind": 2,
+    "Name": "Huyện Văn Bàn",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN20501",
+    "Kind": 2,
+    "Name": "Thành phố Lào Cai",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN20513",
+    "Kind": 2,
+    "Name": "Thị xã Sa Pa",
+    "SortOrder": 0,
+    "parentId": "VN205"
+  },
+  {
+    "Id": "VN80117",
+    "Kind": 2,
+    "Name": "Huyện Bến Lức",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80125",
+    "Kind": 2,
+    "Name": "Huyện Cần Đước",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80127",
+    "Kind": 2,
+    "Name": "Huyện Cần Giuộc",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80121",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80115",
+    "Kind": 2,
+    "Name": "Huyện Đức Hòa",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80113",
+    "Kind": 2,
+    "Name": "Huyện Đức Huệ",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80107",
+    "Kind": 2,
+    "Name": "Huyện Mộc Hóa",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80103",
+    "Kind": 2,
+    "Name": "Huyện Tân Hưng",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80109",
+    "Kind": 2,
+    "Name": "Huyện Tân Thạnh",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80123",
+    "Kind": 2,
+    "Name": "Huyện Tân Trụ",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80111",
+    "Kind": 2,
+    "Name": "Huyện Thạnh Hóa",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80119",
+    "Kind": 2,
+    "Name": "Huyện Thủ Thừa",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80105",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Hưng",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80101",
+    "Kind": 2,
+    "Name": "Thành phố Tân An",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN80129",
+    "Kind": 2,
+    "Name": "Thị xã Kiến Tường",
+    "SortOrder": 0,
+    "parentId": "VN801"
+  },
+  {
+    "Id": "VN11315",
+    "Kind": 2,
+    "Name": "Huyện Giao Thủy",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11319",
+    "Kind": 2,
+    "Name": "Huyện Hải Hậu",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11305",
+    "Kind": 2,
+    "Name": "Huyện Mỹ Lộc",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11309",
+    "Kind": 2,
+    "Name": "Huyện Nam Trực",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11317",
+    "Kind": 2,
+    "Name": "Huyện Nghĩa Hưng",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11311",
+    "Kind": 2,
+    "Name": "Huyện Trực Ninh",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11303",
+    "Kind": 2,
+    "Name": "Huyện Vụ Bản",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11313",
+    "Kind": 2,
+    "Name": "Huyện Xuân Trường",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11307",
+    "Kind": 2,
+    "Name": "Huyện ý Yên",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN11301",
+    "Kind": 2,
+    "Name": "Thành phố Nam Định",
+    "SortOrder": 0,
+    "parentId": "VN113"
+  },
+  {
+    "Id": "VN40327",
+    "Kind": 2,
+    "Name": "Huyện Anh Sơn",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40321",
+    "Kind": 2,
+    "Name": "Huyện Con Cuông",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40325",
+    "Kind": 2,
+    "Name": "Huyện Diễn Châu",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40329",
+    "Kind": 2,
+    "Name": "Huyện Đô Lương",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40337",
+    "Kind": 2,
+    "Name": "Huyện Hưng Nguyên",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40309",
+    "Kind": 2,
+    "Name": "Huyện Kỳ Sơn",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40335",
+    "Kind": 2,
+    "Name": "Huyện Nam Đàn",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40333",
+    "Kind": 2,
+    "Name": "Huyện Nghi Lộc",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40313",
+    "Kind": 2,
+    "Name": "Huyện Nghĩa Đàn",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40305",
+    "Kind": 2,
+    "Name": "Huyện Quế Phong",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40307",
+    "Kind": 2,
+    "Name": "Huyện Quỳ Châu",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40311",
+    "Kind": 2,
+    "Name": "Huyện Quỳ Hợp",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40317",
+    "Kind": 2,
+    "Name": "Huyện Quỳnh Lưu",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40319",
+    "Kind": 2,
+    "Name": "Huyện Tân Kỳ",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40331",
+    "Kind": 2,
+    "Name": "Huyện Thanh Chương",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40315",
+    "Kind": 2,
+    "Name": "Huyện Tương Dương",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40323",
+    "Kind": 2,
+    "Name": "Huyện Yên Thành",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40301",
+    "Kind": 2,
+    "Name": "Thành phố Vinh",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40303",
+    "Kind": 2,
+    "Name": "Thị xã Cửa Lò",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40339",
+    "Kind": 2,
+    "Name": "Thị xã Hoàng Mai",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN40314",
+    "Kind": 2,
+    "Name": "Thị xã Thái Hòa",
+    "SortOrder": 0,
+    "parentId": "VN403"
+  },
+  {
+    "Id": "VN11707",
+    "Kind": 2,
+    "Name": "Huyện Gia Viễn",
+    "SortOrder": 0,
+    "parentId": "VN117"
+  },
+  {
+    "Id": "VN11709",
+    "Kind": 2,
+    "Name": "Huyện Hoa Lư",
+    "SortOrder": 0,
+    "parentId": "VN117"
+  },
+  {
+    "Id": "VN11715",
+    "Kind": 2,
+    "Name": "Huyện Kim Sơn",
+    "SortOrder": 0,
+    "parentId": "VN117"
+  },
+  {
+    "Id": "VN11705",
+    "Kind": 2,
+    "Name": "Huyện Nho quan",
+    "SortOrder": 0,
+    "parentId": "VN117"
+  },
+  {
+    "Id": "VN11713",
+    "Kind": 2,
+    "Name": "Huyện Yên Khánh",
+    "SortOrder": 0,
+    "parentId": "VN117"
+  },
+  {
+    "Id": "VN11711",
+    "Kind": 2,
+    "Name": "Huyện Yên Mô",
+    "SortOrder": 0,
+    "parentId": "VN117"
+  },
+  {
+    "Id": "VN11701",
+    "Kind": 2,
+    "Name": "Thành phố Ninh Bình",
+    "SortOrder": 0,
+    "parentId": "VN117"
+  },
+  {
+    "Id": "VN11703",
+    "Kind": 2,
+    "Name": "Thành phố Tam Điệp",
+    "SortOrder": 0,
+    "parentId": "VN117"
+  },
+  {
+    "Id": "VN70509",
+    "Kind": 2,
+    "Name": "Huyện Bác ái",
+    "SortOrder": 0,
+    "parentId": "VN705"
+  },
+  {
+    "Id": "VN70505",
+    "Kind": 2,
+    "Name": "Huyện Ninh Hải",
+    "SortOrder": 0,
+    "parentId": "VN705"
+  },
+  {
+    "Id": "VN70507",
+    "Kind": 2,
+    "Name": "Huyện Ninh Phước",
+    "SortOrder": 0,
+    "parentId": "VN705"
+  },
+  {
+    "Id": "VN70503",
+    "Kind": 2,
+    "Name": "Huyện Ninh Sơn",
+    "SortOrder": 0,
+    "parentId": "VN705"
+  },
+  {
+    "Id": "VN70511",
+    "Kind": 2,
+    "Name": "Huyện Thuận Bắc",
+    "SortOrder": 0,
+    "parentId": "VN705"
+  },
+  {
+    "Id": "VN70513",
+    "Kind": 2,
+    "Name": "Huyện Thuận Nam",
+    "SortOrder": 0,
+    "parentId": "VN705"
+  },
+  {
+    "Id": "VN70501",
+    "Kind": 2,
+    "Name": "Thành phố Phan Rang-Tháp Chàm",
+    "SortOrder": 0,
+    "parentId": "VN705"
+  },
+  {
+    "Id": "VN21713",
+    "Kind": 2,
+    "Name": "Huyện Cẩm Khê",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21705",
+    "Kind": 2,
+    "Name": "Huyện Đoan Hùng",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21707",
+    "Kind": 2,
+    "Name": "Huyện Hạ Hòa",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21721",
+    "Kind": 2,
+    "Name": "Huyện Lâm Thao",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21711",
+    "Kind": 2,
+    "Name": "Huyện Phù Ninh",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21717",
+    "Kind": 2,
+    "Name": "Huyện Tam Nông",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21720",
+    "Kind": 2,
+    "Name": "Huyện Tân Sơn",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21709",
+    "Kind": 2,
+    "Name": "Huyện Thanh Ba",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21719",
+    "Kind": 2,
+    "Name": "Huyện Thanh Sơn",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21723",
+    "Kind": 2,
+    "Name": "Huyện Thanh Thủy",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21715",
+    "Kind": 2,
+    "Name": "Huyện Yên Lập",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21701",
+    "Kind": 2,
+    "Name": "Thành phố Việt Trì",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN21703",
+    "Kind": 2,
+    "Name": "Thị xã Phú Thọ",
+    "SortOrder": 0,
+    "parentId": "VN217"
+  },
+  {
+    "Id": "VN50903",
+    "Kind": 2,
+    "Name": "Huyện Đồng Xuân",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN50915",
+    "Kind": 2,
+    "Name": "Huyện Phú Hòa",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN50909",
+    "Kind": 2,
+    "Name": "Huyện Sơn Hòa",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN50913",
+    "Kind": 2,
+    "Name": "Huyện Sông Hinh",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN50912",
+    "Kind": 2,
+    "Name": "Huyện Tây Hòa",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN50907",
+    "Kind": 2,
+    "Name": "Huyện Tuy An",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN50901",
+    "Kind": 2,
+    "Name": "Thành phố Tuy Hòa",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN50911",
+    "Kind": 2,
+    "Name": "Thị xã Đông Hòa",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN50905",
+    "Kind": 2,
+    "Name": "Thị xã Sông Cầu",
+    "SortOrder": 0,
+    "parentId": "VN509"
+  },
+  {
+    "Id": "VN40709",
+    "Kind": 2,
+    "Name": "Huyện Bố Trạch",
+    "SortOrder": 0,
+    "parentId": "VN407"
+  },
+  {
+    "Id": "VN40713",
+    "Kind": 2,
+    "Name": "Huyện Lệ Thủy",
+    "SortOrder": 0,
+    "parentId": "VN407"
+  },
+  {
+    "Id": "VN40705",
+    "Kind": 2,
+    "Name": "Huyện Minh Hóa",
+    "SortOrder": 0,
+    "parentId": "VN407"
+  },
+  {
+    "Id": "VN40711",
+    "Kind": 2,
+    "Name": "Huyện Quảng Ninh",
+    "SortOrder": 0,
+    "parentId": "VN407"
+  },
+  {
+    "Id": "VN40707",
+    "Kind": 2,
+    "Name": "Huyện Quảng Trạch",
+    "SortOrder": 0,
+    "parentId": "VN407"
+  },
+  {
+    "Id": "VN40703",
+    "Kind": 2,
+    "Name": "Huyện Tuyên Hóa",
+    "SortOrder": 0,
+    "parentId": "VN407"
+  },
+  {
+    "Id": "VN40701",
+    "Kind": 2,
+    "Name": "Thành phố Đồng Hới",
+    "SortOrder": 0,
+    "parentId": "VN407"
+  },
+  {
+    "Id": "VN40715",
+    "Kind": 2,
+    "Name": "Thị Xã Ba Đồn",
+    "SortOrder": 0,
+    "parentId": "VN407"
+  },
+  {
+    "Id": "VN50327",
+    "Kind": 2,
+    "Name": "Huyện Bắc Trà My",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50307",
+    "Kind": 2,
+    "Name": "Huyện Đại Lộc",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50305",
+    "Kind": 2,
+    "Name": "Huyện Đông Giang",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50311",
+    "Kind": 2,
+    "Name": "Huyện Duy Xuyên",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50319",
+    "Kind": 2,
+    "Name": "Huyện Hiệp Đức",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50313",
+    "Kind": 2,
+    "Name": "Huyện Nam Giang",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50329",
+    "Kind": 2,
+    "Name": "Huyện Nam Trà My",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50318",
+    "Kind": 2,
+    "Name": "Huyện Nông Sơn",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50325",
+    "Kind": 2,
+    "Name": "Huyện Núi Thành",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50302",
+    "Kind": 2,
+    "Name": "Huyện Phú Ninh",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50323",
+    "Kind": 2,
+    "Name": "Huyện Phước Sơn",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50317",
+    "Kind": 2,
+    "Name": "Huyện Quế Sơn",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50304",
+    "Kind": 2,
+    "Name": "Huyện Tây Giang",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50315",
+    "Kind": 2,
+    "Name": "Huyện Thăng Bình",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50321",
+    "Kind": 2,
+    "Name": "Huyện Tiên Phước",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50303",
+    "Kind": 2,
+    "Name": "Thành phố Hội An",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50301",
+    "Kind": 2,
+    "Name": "Thành phố Tam Kỳ",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50309",
+    "Kind": 2,
+    "Name": "Thị xã Điện Bàn",
+    "SortOrder": 0,
+    "parentId": "VN503"
+  },
+  {
+    "Id": "VN50525",
+    "Kind": 2,
+    "Name": "Huyện Ba Tơ",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50505",
+    "Kind": 2,
+    "Name": "Huyện Bình Sơn",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50503",
+    "Kind": 2,
+    "Name": "Huyện Lý Sơn",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50519",
+    "Kind": 2,
+    "Name": "Huyện Minh Long",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50521",
+    "Kind": 2,
+    "Name": "Huyện Mộ Đức",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50517",
+    "Kind": 2,
+    "Name": "Huyện Nghĩa Hành",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50513",
+    "Kind": 2,
+    "Name": "Huyện Sơn Hà",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50511",
+    "Kind": 2,
+    "Name": "Huyện Sơn Tây",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50509",
+    "Kind": 2,
+    "Name": "Huyện Sơn Tịnh",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50507",
+    "Kind": 2,
+    "Name": "Huyện Trà Bồng",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50515",
+    "Kind": 2,
+    "Name": "Huyện Tư Nghĩa",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50501",
+    "Kind": 2,
+    "Name": "Thành phố Quảng Ngãi",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN50523",
+    "Kind": 2,
+    "Name": "Thị xã Đức Phổ",
+    "SortOrder": 0,
+    "parentId": "VN505"
+  },
+  {
+    "Id": "VN22515",
+    "Kind": 2,
+    "Name": "Huyện Ba Chẽ",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22507",
+    "Kind": 2,
+    "Name": "Huyện Bình Liêu",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22523",
+    "Kind": 2,
+    "Name": "Huyện Cô Tô",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22527",
+    "Kind": 2,
+    "Name": "Huyện Đầm Hà",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22511",
+    "Kind": 2,
+    "Name": "Huyện Hải Hà",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22513",
+    "Kind": 2,
+    "Name": "Huyện Tiên Yên",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22517",
+    "Kind": 2,
+    "Name": "Huyện Vân Đồn",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22503",
+    "Kind": 2,
+    "Name": "Thành phố Cẩm Phả",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22501",
+    "Kind": 2,
+    "Name": "Thành phố Hạ Long",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22509",
+    "Kind": 2,
+    "Name": "Thành phố Móng cái",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22505",
+    "Kind": 2,
+    "Name": "Thành phố Uông Bí",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22521",
+    "Kind": 2,
+    "Name": "Thị xã Đông Triều",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN22525",
+    "Kind": 2,
+    "Name": "Thị xã Quảng Yên",
+    "SortOrder": 0,
+    "parentId": "VN225"
+  },
+  {
+    "Id": "VN40909",
+    "Kind": 2,
+    "Name": "Huyện Cam Lộ",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40919",
+    "Kind": 2,
+    "Name": "Huyện Cồn Cỏ",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40917",
+    "Kind": 2,
+    "Name": "Huyện Đa Krông",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40907",
+    "Kind": 2,
+    "Name": "Huyện Gio Linh",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40913",
+    "Kind": 2,
+    "Name": "Huyện Hải Lăng",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40915",
+    "Kind": 2,
+    "Name": "Huyện Hướng Hóa",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40911",
+    "Kind": 2,
+    "Name": "Huyện Triệu Phong",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40905",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Linh",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40901",
+    "Kind": 2,
+    "Name": "Thành phố Đông Hà",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN40903",
+    "Kind": 2,
+    "Name": "Thị xã Quảng Trị",
+    "SortOrder": 0,
+    "parentId": "VN409"
+  },
+  {
+    "Id": "VN81915",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81906",
+    "Kind": 2,
+    "Name": "Huyện Cù Lao Dung",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81903",
+    "Kind": 2,
+    "Name": "Huyện Kế Sách",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81905",
+    "Kind": 2,
+    "Name": "Huyện Long Phú",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81907",
+    "Kind": 2,
+    "Name": "Huyện Mỹ Tú",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81909",
+    "Kind": 2,
+    "Name": "Huyện Mỹ Xuyên",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81911",
+    "Kind": 2,
+    "Name": "Huyện Thạnh Trị",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81917",
+    "Kind": 2,
+    "Name": "Huyện Trần Đề",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81901",
+    "Kind": 2,
+    "Name": "Thành phố Sóc Trăng",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81912",
+    "Kind": 2,
+    "Name": "Thị Xã Ngã Năm",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN81913",
+    "Kind": 2,
+    "Name": "Thị xã Vĩnh Châu",
+    "SortOrder": 0,
+    "parentId": "VN819"
+  },
+  {
+    "Id": "VN30309",
+    "Kind": 2,
+    "Name": "Huyện Bắc Yên",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30313",
+    "Kind": 2,
+    "Name": "Huyện Mai Sơn",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30319",
+    "Kind": 2,
+    "Name": "Huyện Mộc Châu",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30305",
+    "Kind": 2,
+    "Name": "Huyện Mường La",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30311",
+    "Kind": 2,
+    "Name": "Huyện Phù Yên",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30303",
+    "Kind": 2,
+    "Name": "Huyện Quỳnh Nhai",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30315",
+    "Kind": 2,
+    "Name": "Huyện Sông Mã",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30321",
+    "Kind": 2,
+    "Name": "Huyện Sốp Cộp",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30307",
+    "Kind": 2,
+    "Name": "Huyện Thuận Châu",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30323",
+    "Kind": 2,
+    "Name": "Huyện Vân Hồ",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30317",
+    "Kind": 2,
+    "Name": "Huyện Yên Châu",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN30301",
+    "Kind": 2,
+    "Name": "Thành phố Sơn La",
+    "SortOrder": 0,
+    "parentId": "VN303"
+  },
+  {
+    "Id": "VN70913",
+    "Kind": 2,
+    "Name": "Huyện Bến Cầu",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN70909",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN70907",
+    "Kind": 2,
+    "Name": "Huyện Dương Minh Châu",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN70915",
+    "Kind": 2,
+    "Name": "Huyện Gò Dầu",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN70903",
+    "Kind": 2,
+    "Name": "Huyện Tân Biên",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN70905",
+    "Kind": 2,
+    "Name": "Huyện Tân Châu",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN70901",
+    "Kind": 2,
+    "Name": "Thành phố Tây Ninh",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN70911",
+    "Kind": 2,
+    "Name": "Thị xã Hòa Thành",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN70917",
+    "Kind": 2,
+    "Name": "Thị xã Trảng Bàng",
+    "SortOrder": 0,
+    "parentId": "VN709"
+  },
+  {
+    "Id": "VN11509",
+    "Kind": 2,
+    "Name": "Huyện Đông Hưng",
+    "SortOrder": 0,
+    "parentId": "VN115"
+  },
+  {
+    "Id": "VN11505",
+    "Kind": 2,
+    "Name": "Huyện Hưng Hà",
+    "SortOrder": 0,
+    "parentId": "VN115"
+  },
+  {
+    "Id": "VN11513",
+    "Kind": 2,
+    "Name": "Huyện Kiến Xương",
+    "SortOrder": 0,
+    "parentId": "VN115"
+  },
+  {
+    "Id": "VN11503",
+    "Kind": 2,
+    "Name": "Huyện Quỳnh Phụ",
+    "SortOrder": 0,
+    "parentId": "VN115"
+  },
+  {
+    "Id": "VN11507",
+    "Kind": 2,
+    "Name": "Huyện Thái Thụy",
+    "SortOrder": 0,
+    "parentId": "VN115"
+  },
+  {
+    "Id": "VN11515",
+    "Kind": 2,
+    "Name": "Huyện Tiền Hải",
+    "SortOrder": 0,
+    "parentId": "VN115"
+  },
+  {
+    "Id": "VN11511",
+    "Kind": 2,
+    "Name": "Huyện Vũ Thư",
+    "SortOrder": 0,
+    "parentId": "VN115"
+  },
+  {
+    "Id": "VN11501",
+    "Kind": 2,
+    "Name": "Thành phố Thái Bình",
+    "SortOrder": 0,
+    "parentId": "VN115"
+  },
+  {
+    "Id": "VN21513",
+    "Kind": 2,
+    "Name": "Huyện Đại Từ",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN21505",
+    "Kind": 2,
+    "Name": "Huyện Định Hóa",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN21511",
+    "Kind": 2,
+    "Name": "Huyện Đồng Hỷ",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN21515",
+    "Kind": 2,
+    "Name": "Huyện Phú Bình",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN21509",
+    "Kind": 2,
+    "Name": "Huyện Phú Lương",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN21507",
+    "Kind": 2,
+    "Name": "Huyện Võ Nhai",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN21503",
+    "Kind": 2,
+    "Name": "Thành phố Sông Công",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN21501",
+    "Kind": 2,
+    "Name": "Thành phố Thái Nguyên",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN21517",
+    "Kind": 2,
+    "Name": "Thị xã Phổ Yên",
+    "SortOrder": 0,
+    "parentId": "VN215"
+  },
+  {
+    "Id": "VN40113",
+    "Kind": 2,
+    "Name": "Huyện Bá Thước",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40115",
+    "Kind": 2,
+    "Name": "Huyện Cẩm Thủy",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40145",
+    "Kind": 2,
+    "Name": "Huyện Đông Sơn",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40131",
+    "Kind": 2,
+    "Name": "Huyện Hà Trung",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40139",
+    "Kind": 2,
+    "Name": "Huyện Hậu Lộc",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40143",
+    "Kind": 2,
+    "Name": "Huyện Hoằng Hóa",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40117",
+    "Kind": 2,
+    "Name": "Huyện Lang Chánh",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40107",
+    "Kind": 2,
+    "Name": "Huyện Mường Lát",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40133",
+    "Kind": 2,
+    "Name": "Huyện Nga Sơn",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40121",
+    "Kind": 2,
+    "Name": "Huyện Ngọc Lặc",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40127",
+    "Kind": 2,
+    "Name": "Huyện Như Thanh",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40125",
+    "Kind": 2,
+    "Name": "Huyện Như Xuân",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40151",
+    "Kind": 2,
+    "Name": "Huyện Nông Cống",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40109",
+    "Kind": 2,
+    "Name": "Huyện Quan Hóa",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40111",
+    "Kind": 2,
+    "Name": "Huyện Quan Sơn",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40149",
+    "Kind": 2,
+    "Name": "Huyện Quảng Xương",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40119",
+    "Kind": 2,
+    "Name": "Huyện Thạch Thành",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40141",
+    "Kind": 2,
+    "Name": "Huyện Thiệu Hóa",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40137",
+    "Kind": 2,
+    "Name": "Huyện Thọ Xuân",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40123",
+    "Kind": 2,
+    "Name": "Huyện Thường Xuân",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40147",
+    "Kind": 2,
+    "Name": "Huyện Triệu Sơn",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40129",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Lộc",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40135",
+    "Kind": 2,
+    "Name": "Huyện Yên Định",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40105",
+    "Kind": 2,
+    "Name": "Thành phố Sầm Sơn",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40101",
+    "Kind": 2,
+    "Name": "Thành phố Thanh Hóa",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40103",
+    "Kind": 2,
+    "Name": "Thị xã Bỉm Sơn",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN40155",
+    "Kind": 2,
+    "Name": "Thị xã Nghi Sơn",
+    "SortOrder": 0,
+    "parentId": "VN401"
+  },
+  {
+    "Id": "VN41115",
+    "Kind": 2,
+    "Name": "Huyện A Lưới",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN41117",
+    "Kind": 2,
+    "Name": "Huyện Nam Đông",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN41103",
+    "Kind": 2,
+    "Name": "Huyện Phong Điền",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN41113",
+    "Kind": 2,
+    "Name": "Huyện Phú Lộc",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN41109",
+    "Kind": 2,
+    "Name": "Huyện Phú Vang",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN41105",
+    "Kind": 2,
+    "Name": "Huyện Quảng Điền",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN41101",
+    "Kind": 2,
+    "Name": "Thành phố Huế",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN41111",
+    "Kind": 2,
+    "Name": "Thị xã Hương Thủy",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN41107",
+    "Kind": 2,
+    "Name": "Thị Xã Hương Trà",
+    "SortOrder": 0,
+    "parentId": "VN411"
+  },
+  {
+    "Id": "VN80713",
+    "Kind": 2,
+    "Name": "Huyện Cái Bè",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80709",
+    "Kind": 2,
+    "Name": "Huyện Cai Lậy",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80707",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80711",
+    "Kind": 2,
+    "Name": "Huyện Chợ Gạo",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80717",
+    "Kind": 2,
+    "Name": "Huyện Gò Công Đông",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80715",
+    "Kind": 2,
+    "Name": "Huyện Gò Công Tây",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80719",
+    "Kind": 2,
+    "Name": "Huyện Tân Phú Đông",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80705",
+    "Kind": 2,
+    "Name": "Huyện Tân Phước",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80701",
+    "Kind": 2,
+    "Name": "Thành phố Mỹ Tho",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80721",
+    "Kind": 2,
+    "Name": "Thị Xã Cai Lậy",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN80703",
+    "Kind": 2,
+    "Name": "Thị xã Gò Công",
+    "SortOrder": 0,
+    "parentId": "VN807"
+  },
+  {
+    "Id": "VN81703",
+    "Kind": 2,
+    "Name": "Huyện Càng Long",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN81707",
+    "Kind": 2,
+    "Name": "Huyện Cầu Kè",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN81711",
+    "Kind": 2,
+    "Name": "Huyện Cầu Ngang",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN81705",
+    "Kind": 2,
+    "Name": "Huyện Châu Thành",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN81715",
+    "Kind": 2,
+    "Name": "Huyện Duyên Hải",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN81709",
+    "Kind": 2,
+    "Name": "Huyện Tiểu Cần",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN81713",
+    "Kind": 2,
+    "Name": "Huyện Trà Cú",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN81701",
+    "Kind": 2,
+    "Name": "Thành phố Trà Vinh",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN81716",
+    "Kind": 2,
+    "Name": "Thị xã Duyên Hải",
+    "SortOrder": 0,
+    "parentId": "VN817"
+  },
+  {
+    "Id": "VN21105",
+    "Kind": 2,
+    "Name": "Huyện Chiêm Hóa",
+    "SortOrder": 0,
+    "parentId": "VN211"
+  },
+  {
+    "Id": "VN21107",
+    "Kind": 2,
+    "Name": "Huyện Hàm Yên",
+    "SortOrder": 0,
+    "parentId": "VN211"
+  },
+  {
+    "Id": "VN21113",
+    "Kind": 2,
+    "Name": "Huyện Lâm Bình",
+    "SortOrder": 0,
+    "parentId": "VN211"
+  },
+  {
+    "Id": "VN21103",
+    "Kind": 2,
+    "Name": "Huyện Na Hang",
+    "SortOrder": 0,
+    "parentId": "VN211"
+  },
+  {
+    "Id": "VN21111",
+    "Kind": 2,
+    "Name": "Huyện Sơn Dương",
+    "SortOrder": 0,
+    "parentId": "VN211"
+  },
+  {
+    "Id": "VN21109",
+    "Kind": 2,
+    "Name": "Huyện Yên Sơn",
+    "SortOrder": 0,
+    "parentId": "VN211"
+  },
+  {
+    "Id": "VN21101",
+    "Kind": 2,
+    "Name": "Thành Phố Tuyên Quang",
+    "SortOrder": 0,
+    "parentId": "VN211"
+  },
+  {
+    "Id": "VN80908",
+    "Kind": 2,
+    "Name": "Huyện Bình Tân",
+    "SortOrder": 0,
+    "parentId": "VN809"
+  },
+  {
+    "Id": "VN80903",
+    "Kind": 2,
+    "Name": "Huyện Long Hồ",
+    "SortOrder": 0,
+    "parentId": "VN809"
+  },
+  {
+    "Id": "VN80905",
+    "Kind": 2,
+    "Name": "Huyện Mang Thít",
+    "SortOrder": 0,
+    "parentId": "VN809"
+  },
+  {
+    "Id": "VN80909",
+    "Kind": 2,
+    "Name": "Huyện Tam Bình",
+    "SortOrder": 0,
+    "parentId": "VN809"
+  },
+  {
+    "Id": "VN80911",
+    "Kind": 2,
+    "Name": "Huyện Trà Ôn",
+    "SortOrder": 0,
+    "parentId": "VN809"
+  },
+  {
+    "Id": "VN80913",
+    "Kind": 2,
+    "Name": "Huyện Vũng Liêm",
+    "SortOrder": 0,
+    "parentId": "VN809"
+  },
+  {
+    "Id": "VN80901",
+    "Kind": 2,
+    "Name": "Thành phố Vĩnh Long",
+    "SortOrder": 0,
+    "parentId": "VN809"
+  },
+  {
+    "Id": "VN80907",
+    "Kind": 2,
+    "Name": "Thị xã Bình Minh",
+    "SortOrder": 0,
+    "parentId": "VN809"
+  },
+  {
+    "Id": "VN21913",
+    "Kind": 2,
+    "Name": "Huyện Bình Xuyên",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21903",
+    "Kind": 2,
+    "Name": "Huyện Lập Thạch",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21915",
+    "Kind": 2,
+    "Name": "Huyện Sông Lô",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21904",
+    "Kind": 2,
+    "Name": "Huyện Tam đảo",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21905",
+    "Kind": 2,
+    "Name": "Huyện Tam Dương",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21907",
+    "Kind": 2,
+    "Name": "Huyện Vĩnh Tường",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21909",
+    "Kind": 2,
+    "Name": "Huyện Yên Lạc",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21902",
+    "Kind": 2,
+    "Name": "Thành phố Phúc Yên",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21901",
+    "Kind": 2,
+    "Name": "Thành phố Vĩnh Yên",
+    "SortOrder": 0,
+    "parentId": "VN219"
+  },
+  {
+    "Id": "VN21305",
+    "Kind": 2,
+    "Name": "Huyện Lục Yên",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  },
+  {
+    "Id": "VN21309",
+    "Kind": 2,
+    "Name": "Huyện Mù Cang Chải",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  },
+  {
+    "Id": "VN21317",
+    "Kind": 2,
+    "Name": "Huyện Trạm Tấu",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  },
+  {
+    "Id": "VN21311",
+    "Kind": 2,
+    "Name": "Huyện Trấn Yên",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  },
+  {
+    "Id": "VN21315",
+    "Kind": 2,
+    "Name": "Huyện Văn Chấn",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  },
+  {
+    "Id": "VN21307",
+    "Kind": 2,
+    "Name": "Huyện Văn Yên",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  },
+  {
+    "Id": "VN21313",
+    "Kind": 2,
+    "Name": "Huyện Yên Bình",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  },
+  {
+    "Id": "VN21301",
+    "Kind": 2,
+    "Name": "Thành phố Yên Bái",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  },
+  {
+    "Id": "VN21303",
+    "Kind": 2,
+    "Name": "Thị xã Nghĩa Lộ",
+    "SortOrder": 0,
+    "parentId": "VN213"
+  }
+]
